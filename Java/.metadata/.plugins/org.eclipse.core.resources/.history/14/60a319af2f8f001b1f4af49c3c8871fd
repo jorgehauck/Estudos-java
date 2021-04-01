@@ -1,0 +1,19 @@
+package models;
+
+public class Individual extends TaxPayer {
+
+	private Double healthExpenditures;
+	
+	public public Individual() {
+		super();
+	}
+	
+	
+	
+	@Override
+	public Double tax() {
+		
+		return 
+	}
+
+}

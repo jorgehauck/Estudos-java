@@ -1,0 +1,6 @@
+package entidades;
+
+public class UsedProduct extends Product {
+
+	
+}

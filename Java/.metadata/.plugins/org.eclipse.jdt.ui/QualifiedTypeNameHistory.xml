@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="entities.Order"/>
+    <fullyQualifiedTypeName name="entities.OrderItem"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xs.models.XSDFACM"/>
+    <fullyQualifiedTypeName name="entities.Client"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.phases.schedule.ScheduleVerification"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="entidades.Product"/>
+    <fullyQualifiedTypeName name="entidades.UsedProduct"/>
+    <fullyQualifiedTypeName name="entidades.ImportedProduct"/>
+    <fullyQualifiedTypeName name="models.TaxPayer"/>
+    <fullyQualifiedTypeName name="models.Individual"/>
+    <fullyQualifiedTypeName name="models.Company"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entities.Contract"/>
+    <fullyQualifiedTypeName name="entities.Installment"/>
+    <fullyQualifiedTypeName name="service.ContractService"/>
+    <fullyQualifiedTypeName name="service.PaypalService"/>
+    <fullyQualifiedTypeName name="service.OnlinePaymentService"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="apllication.Circle"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="apllication.AbstractShape"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,21 @@
+package models;
+
+public class Company extends TaxPayer {
+
+	private int numberOfEmployees;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	@Override
+	public Double tax() {
+		
+		return ;
+	}
+
+}

@@ -1,0 +1,25 @@
+package models;
+
+public class Individual extends TaxPayer {
+	
+	private Double healthExpenditures;
+	private static final Double TAX_INDIVIDUAL = 0.15;
+	
+	public Individual() {
+		super();
+	}
+	
+	public Individual(String name, Double anualIncome, Double healthExpenditures) {
+		super(name, anualIncome);
+		this.healthExpenditures = healthExpenditures;
+	}
+
+
+
+	@Override
+	public Double tax() {
+		
+		return 
+	}
+
+}
